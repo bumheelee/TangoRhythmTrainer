@@ -17,6 +17,10 @@ button.sub{background:transparent;color:var(--fg);border:1px solid var(--ac)}but
 button:disabled{opacity:.4}
 img.logo{display:block;width:62%;max-width:240px;height:auto;margin:0 auto 10px;filter:var(--logo-f);pointer-events:none}
 label{font-size:13px;display:block;margin-top:10px}input[type=range]{width:100%}
+.mode-help{margin:14px 0 8px;padding:10px 12px;border:1px solid var(--ac);border-radius:10px;background:rgba(184,134,43,.08)}
+.mode-title{font-size:12px;font-weight:700;letter-spacing:.06em;opacity:.8;margin-bottom:8px}
+.mode-row{font-size:12px;line-height:1.5;margin:4px 0}
+.mode-name{display:inline-block;min-width:72px;font-weight:700}
 </style></head><body>
 <canvas id="c"></canvas>
 <div id="menu"><div class="card">
@@ -28,6 +32,14 @@ label{font-size:13px;display:block;margin-top:10px}input[type=range]{width:100%}
 <input id="file" type="file" style="display:none">
 <p id="msg"></p>
 <div id="diffs"></div>
+<div class="mode-help">
+  <div class="mode-title">Mode 설명</div>
+  <div class="mode-row"><span class="mode-name">musical</span> 강세, 온셋, 음역 등 여러 음악적 특징을 종합합니다. 기본 모드입니다.</div>
+  <div class="mode-row"><span class="mode-name">tango</span> 탱고 리듬에 맞는 이벤트 선택을 중심으로 합니다.</div>
+  <div class="mode-row"><span class="mode-name">beat</span> 박자와 beat grid 중심의 채보입니다.</div>
+  <div class="mode-row"><span class="mode-name">salient</span> 두드러지는 온셋/강세 이벤트 중심입니다.</div>
+  <div class="mode-row"><span class="mode-name">instrument</span> 음역과 역할별 이벤트 분류를 활용합니다.</div>
+</div>
 <label>노트 속도 <span id="spv">1.0</span><input id="sp" type="range" min="0.6" max="2" step="0.1" value="1"></label>
 <label>타이밍 보정 <span id="ofv">0</span>ms<input id="of" type="range" min="-150" max="150" step="5" value="0"></label>
 <button id="go" disabled>시작</button>
