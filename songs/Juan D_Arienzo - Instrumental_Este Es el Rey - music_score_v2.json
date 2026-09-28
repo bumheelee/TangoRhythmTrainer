@@ -3,7 +3,7 @@
   "score": {
     "schema": "tango-music-score-v2",
     "source": {
-      "file": "Juan D'Arienzo - Instrumental_Este Es el Rey.mp3",
+      "file": "Juan D_Arienzo - Instrumental_Este Es el Rey.mp3",
       "duration_sec": 188.5007,
       "sample_rate": 22050
     },
@@ -3961,7 +3961,7 @@
         "time_ms": 10054,
         "grid_time_ms": 10054,
         "snapped": true,
-        "strength": 2.3632,
+        "strength": 2.3631,
         "loudness": 0.30236,
         "spectral_centroid": 1351.6,
         "pitch_class": 8,
@@ -9072,7 +9072,7 @@
         "time_ms": 101239,
         "grid_time_ms": 101262,
         "snapped": true,
-        "strength": 5.3133,
+        "strength": 5.3132,
         "loudness": 0.2524,
         "spectral_centroid": 1079.3,
         "pitch_class": 6,

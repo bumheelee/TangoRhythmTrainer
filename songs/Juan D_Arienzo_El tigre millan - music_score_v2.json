@@ -3,7 +3,7 @@
   "score": {
     "schema": "tango-music-score-v2",
     "source": {
-      "file": "Juan D'Arienzo_El tigre millan.mp3",
+      "file": "Juan D_Arienzo_El tigre millan.mp3",
       "duration_sec": 174.4196,
       "sample_rate": 22050
     },
@@ -7935,7 +7935,7 @@
         "time_ms": 69544,
         "grid_time_ms": 69567,
         "snapped": true,
-        "strength": 3.1576,
+        "strength": 3.1575,
         "loudness": 0.229,
         "spectral_centroid": 1239.3,
         "pitch_class": 1,
@@ -8277,7 +8277,7 @@
         "time_ms": 73979,
         "grid_time_ms": 73979,
         "snapped": true,
-        "strength": 4.729,
+        "strength": 4.7289,
         "loudness": 0.08341,
         "spectral_centroid": 1159.1,
         "pitch_class": 0,
@@ -14832,7 +14832,7 @@
         "time_ms": 152485,
         "grid_time_ms": 152497,
         "snapped": true,
-        "strength": 3.0598,
+        "strength": 3.0599,
         "loudness": 0.08667,
         "spectral_centroid": 1332.6,
         "pitch_class": 11,

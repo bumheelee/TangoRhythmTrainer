@@ -3,7 +3,7 @@
   "score": {
     "schema": "tango-music-score-v2",
     "source": {
-      "file": "Juan D'Arienzo - Instrumental_Gallo Ciego.mp3",
+      "file": "Juan D_Arienzo - Instrumental_Gallo Ciego.mp3",
       "duration_sec": 128.8893,
       "sample_rate": 22050
     },
@@ -4782,7 +4782,7 @@
         "time_ms": 36780,
         "grid_time_ms": 36792,
         "snapped": true,
-        "strength": 2.7653,
+        "strength": 2.7654,
         "loudness": 0.11216,
         "spectral_centroid": 2054.2,
         "pitch_class": 2,

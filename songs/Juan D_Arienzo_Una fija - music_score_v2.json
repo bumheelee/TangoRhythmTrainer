@@ -3,7 +3,7 @@
   "score": {
     "schema": "tango-music-score-v2",
     "source": {
-      "file": "Juan D'Arienzo_Una fija.mp3",
+      "file": "Juan D_Arienzo_Una fija.mp3",
       "duration_sec": 170.0267,
       "sample_rate": 22050
     },
@@ -3955,7 +3955,7 @@
         "time_ms": 28514,
         "grid_time_ms": 28514,
         "snapped": true,
-        "strength": 4.6473,
+        "strength": 4.6474,
         "loudness": 0.08572,
         "spectral_centroid": 1596.0,
         "pitch_class": 5,
@@ -6444,7 +6444,7 @@
         "time_ms": 93019,
         "grid_time_ms": 93019,
         "snapped": true,
-        "strength": 5.0161,
+        "strength": 5.016,
         "loudness": 0.07884,
         "spectral_centroid": 1603.0,
         "pitch_class": 7,

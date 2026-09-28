@@ -3,7 +3,7 @@
   "score": {
     "schema": "tango-music-score-v2",
     "source": {
-      "file": "Juan D'Arienzol_El Simpatico.mp3",
+      "file": "Juan D_Arienzol_El Simpatico.mp3",
       "duration_sec": 156.2264,
       "sample_rate": 22050
     },
@@ -12765,7 +12765,7 @@
         "time_ms": 142408,
         "grid_time_ms": 142408,
         "snapped": true,
-        "strength": 2.3261,
+        "strength": 2.326,
         "loudness": 0.07471,
         "spectral_centroid": 1855.9,
         "pitch_class": 5,
